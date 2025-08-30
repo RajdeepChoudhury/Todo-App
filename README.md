@@ -27,6 +27,9 @@ Database: PostgreSQL
 
 IDE Used: IntelliJ IDEA
 
+## 👾 Screenshot
+![image alt](https://github.com/RajdeepChoudhury/Snake-Game-/blob/ddd4776b2492c80e11136e817514a4f1d9ff3bd4/Picture.jpg)
+
 🌟 Outcome:
 
 The project demonstrates full-stack desktop application development with Java and PostgreSQL. It showcases concepts like CRUD operations, form validation, database constraints, and GUI design while solving a real-world problem of personal task management.
