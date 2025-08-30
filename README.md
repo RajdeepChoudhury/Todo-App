@@ -28,7 +28,7 @@ Database: PostgreSQL
 IDE Used: IntelliJ IDEA
 
 ## 👾 Screenshot
-![image alt](https://github.com/RajdeepChoudhury/Snake-Game-/blob/ddd4776b2492c80e11136e817514a4f1d9ff3bd4/Picture.jpg)
+![image alt](https://github.com/RajdeepChoudhury/Todo-App/blob/2fe27a362de15bad9073c713b6ef09efbc3eccb6/Todo%20App.jpg)
 
 🌟 Outcome:
 
